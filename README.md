@@ -142,6 +142,5 @@ Threshold tuning at 0.14 sacrifices overall accuracy to substantially improve re
 - pandas, numpy, matplotlib, seaborn
 - scikit-learn, imbalanced-learn
 - shap, umap-learn
-- groq
 
 See `requirements.txt` for full version list.
