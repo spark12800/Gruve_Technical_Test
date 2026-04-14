@@ -28,7 +28,7 @@ The training set contains **77,439 patient encounters × 46 features**, with sig
 This project uses `uv` for environment management.
 
 ```bash
-# Install uv (if not already installed)
+# Install uv 
 pip install uv
 
 # Create virtual environment and install dependencies
